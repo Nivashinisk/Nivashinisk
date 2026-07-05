@@ -21,7 +21,7 @@
 - 💻 Strengthening my programming skills with Java
 
 
-
+<br>
 
  🛠 Tech Stack
 
@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,github,flutter,dart,java,&theme=dark"/>
 </p>
 
-
+<br>
 
  🤝 Soft Skills
 - Problem Solving
@@ -38,7 +38,7 @@
 - Quick Learner
 - Time Management
 
-
+<br>
 
 🚀 Featured Projects
 
@@ -52,6 +52,7 @@ Modern portfolio built using React.
 Food and beverage discovery application built using Flutter.
 
 
+<br>
 
  🏆 Coding Profiles
 
@@ -72,6 +73,7 @@ Food and beverage discovery application built using Flutter.
 </p>
 
 
+<br>
  📊 GitHub Stats
 
 <p align="center">
@@ -82,7 +84,7 @@ Food and beverage discovery application built using Flutter.
 
 </p>
 
-
+<br>
 
 🔥 GitHub Streak
 
@@ -93,6 +95,7 @@ Food and beverage discovery application built using Flutter.
 </p>
 
 
+<br>
 
 📈 Contribution Graph
 
@@ -103,6 +106,7 @@ Food and beverage discovery application built using Flutter.
 </p>
 
 
+<br>
 
 💡 Quote
 
@@ -113,6 +117,7 @@ Food and beverage discovery application built using Flutter.
 </p>
 
 
+<br>
 
 <h3 align="center">
 
