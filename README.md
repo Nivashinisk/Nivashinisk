@@ -74,17 +74,6 @@ Food and beverage discovery application built using Flutter.
 
 
 <br>
- 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nivashinisk&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivashinisk&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<br>
 
 🔥 GitHub Streak
 
