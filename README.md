@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;DSA+%7C+LeetCode+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;DSA+%7C+LeetCode+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
 
@@ -30,6 +30,7 @@
 </p>
 
 
+
  🤝 Soft Skills
 - Problem Solving
 - Teamwork
@@ -41,13 +42,13 @@
 
 🚀 Featured Projects
 
- ♻️ UpcycleHub
+ ♻️ UpcycleHub<br>
 Community platform to exchange and repurpose used items locally.
 
-🌐 Portfolio Website
+🌐 Portfolio Website<br>
 Modern portfolio built using React.
 
- 📱 SMAKLY
+ 📱 SMAKLY<br>
 Food and beverage discovery application built using Flutter.
 
 
